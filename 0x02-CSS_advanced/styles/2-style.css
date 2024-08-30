@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
 body {
   font-family: var(--font-family-base);
   color: var(--text-color);

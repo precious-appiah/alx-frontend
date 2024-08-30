@@ -1,13 +1,5 @@
-:root {
-  --font-family-base: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  --font-family-title: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  --color-primary: #d73953;
-  --color-black: #090909;
-  --color-white: #ffffff;
-  --color-light-grey: #d73953;
-  --color-dark-grey: #353535;
-  --text-color: var(--color-black)
-
+:root{
+    --section-header-align: center;
 }
 html {
     scroll-behavior: smooth;
@@ -32,6 +24,9 @@ html {
   
   .visually-hidden {
     display: none;
+  }
+  .section-header{
+    text-align: var(--section-header-align);
   }
   .card-category,
   .section-tagline {
