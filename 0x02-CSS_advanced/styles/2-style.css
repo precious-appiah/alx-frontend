@@ -5,26 +5,19 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: var(--font-family-base);
-  color: var(--text-color);
-  font-size: var(--font-size-medium);
-  font-weight: var(--font-weight-regular);
-  min-height: var(--line-height-base);
-
-}
-h1,h2,h3,h4,h5,h6{
-  font-family: var(--font-family-title);
-  font-weight: var(--font-weight-bold);
+  color: #161616;
 }
 
 a {
-  color: var(--text-color);
+  color:#161616;
 }
 
 .visually-hidden {
   display: none;
 }
-.card-category,
+.card-category{
+  color: #D73953;
+}
 .section-tagline {
-  color: var(--color-primary);
+  color: #D73953;
 }
