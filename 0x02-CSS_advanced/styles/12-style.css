@@ -4,7 +4,7 @@
   --section-tagline-transform: uppercase;
   --section-title-margin: 0;
   --section-title-color: black;
-  /* --font-size-xx-large: 4.8rem; */
+  --font-size-xx-large: 4.8rem;
 }
 html {
   scroll-behavior: smooth;
