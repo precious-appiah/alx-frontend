@@ -4,7 +4,7 @@
   --section-tagline-transform: uppercase;
   --section-title-margin: 0;
   --section-title-color: black;
-  --font-size-xx-large: 4.8rem;
+  /* --font-size-xx-large: 4.8rem; */
 }
 html {
   scroll-behavior: smooth;
@@ -45,8 +45,8 @@ a {
   margin: var(--section-title-margin);
   color: var(--section-title-color);
 }
-.card-category,
-.section-tagline {
+.section-tagline,
+.card-category {
   color: var(--color-primary);
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
