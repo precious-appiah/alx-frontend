@@ -333,6 +333,6 @@ a:active {
 .footer {
   padding: var(--footer-padding);
 }
-.foofter ul{
+.footer ul{
     text-align: right;
 }
