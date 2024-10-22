@@ -107,6 +107,11 @@ a:active {
     padding: 0;
     list-style: none;
 }
+.col-1-3{
+    width: 33.33%;
+    float: right;
+    padding: 0.5rem;
+}
 .nav.nav-item {
   font-family: var(--nav-item-font-family);
   font-weight: var(--nav-item-font-weight);
